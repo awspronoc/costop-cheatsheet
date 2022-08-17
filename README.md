@@ -15,7 +15,7 @@ This is a cheat-sheet that goes with STP203 "Life-Changing Habits To Reduce Your
 * [Take actions on alarms through Amazon EventBridge](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch-and-eventbridge.html)
 * [Understand your AWS Bill breakdown - try out the new interface!](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/invoice.html)
 * [Plan your workload using draw.io, cost calculator and spreadsheets](https://calculator.aws/#/)
-* [Keep track of custom KPIs](#metrics--kpis)
+* [Keep track of various metrics and KPIs](#metrics--kpis)
 * [AWS Cost explorer for charts and graphs on usage](https://docs.aws.amazon.com/cost-management/latest/userguide/ce-exploring-data.html)
 * [Explore savings plans for well-developed architectures](https://aws.amazon.com/savingsplans/compute-pricing/)
 
@@ -31,13 +31,16 @@ This is a cheat-sheet that goes with STP203 "Life-Changing Habits To Reduce Your
 * [Go Serverless!](https://serverlessland.com/)
 * [Switch to GP3 EBS volumes](https://aws.amazon.com/blogs/storage/migrate-your-amazon-ebs-volumes-from-gp2-to-gp3-and-save-up-to-20-on-costs/)
 * [Rely on spot instances for a discount of upto 90% compared to on-demand instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/how-spot-instances-work.html)
-* [Understand Amazon S3 storage classes](Amazon S3 Storage Classes)
+* [Understand Amazon S3 storage classes](https://aws.amazon.com/s3/storage-classes/)
 * [Rely on intelligent-tiering for automatic transitioning to different storage classes](https://aws.amazon.com/s3/storage-classes/intelligent-tiering/)
 * [Automate control over services through AWS Budget actions and service control policies](https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-controls.html)
 
 
 ### Things to help you as you grow
 * [CUDOS Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/fd889151-38aa-4fe2-a29d-d5fa557197bb/en-US)
+
+
+
 
 
 ## Metrics & KPIs
