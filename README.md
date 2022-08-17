@@ -38,3 +38,17 @@ This is a cheat-sheet that goes with STP203 "Life-Changing Habits To Reduce Your
 
 ### Things to help you as you grow
 * [CUDOS Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/fd889151-38aa-4fe2-a29d-d5fa557197bb/en-US)
+
+
+## Metrics & KPIs
+
+* Create your own metrics and then finalize and track monthly and yearly
+
+
+| Workload Specific  | KPIs | Cumulative | 
+| ------------- | ------------- | ------------- |
+| Cost per unit of work (e.g., cost per page of OCR) | Revenue run-rate  | AWS Run Rate |
+| Cost for a unit of work that generates revenue | Margin  | Cost breakdown per workload/project | 
+| Cost for increased use (verified against calculator) | Monthly Active Users | Increased cost for more users per workload/project | 
+
+
