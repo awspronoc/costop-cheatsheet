@@ -15,7 +15,7 @@ This is a cheat-sheet that goes with STP203 "Life-Changing Habits To Reduce Your
 * [Take actions on alarms through Amazon EventBridge](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch-and-eventbridge.html)
 * [Understand your AWS Bill breakdown - try out the new interface!](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/invoice.html)
 * [Plan your workload using draw.io, cost calculator and spreadsheets](https://calculator.aws/#/)
-* Keep track of custom KPIs 
+* [Keep track of custom KPIs](#metrics--kpis)
 * [AWS Cost explorer for charts and graphs on usage](https://docs.aws.amazon.com/cost-management/latest/userguide/ce-exploring-data.html)
 * [Explore savings plans for well-developed architectures](https://aws.amazon.com/savingsplans/compute-pricing/)
 
